@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.manorusso.unglowlichen.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "GlowLichenBlockMixin"
+  ],
+  "client": [
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
