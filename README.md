@@ -1,4 +1,4 @@
-# WIP
+## WORK IN PROGRESS
 # Unglow Lichen for Minecraft 1.19
 
 ## What is this mod?
