@@ -1,4 +1,6 @@
 ## WORK IN PROGRESS
+At this moment, only works server-side and with new generated chunks!
+
 # Unglow Lichen for Minecraft 1.19
 
 ## What is this mod?
