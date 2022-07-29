@@ -1,7 +1,7 @@
 # Unglow Lichen for Minecraft 1.19
 
 ## WORK IN PROGRESS
-At this moment, only works server-side and with new generated chunks! Previously generated chunks will have light bugs near Glow Lichen blocks. *Only use this mod if you generated a new world!*
+At this moment, only works server-side and with new generated chunks! Previously generated chunks will have light bugs near Glow Lichen blocks. **Only use this mod if you generated a new world!**
 
 ## What is this mod?
 
