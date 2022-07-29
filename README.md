@@ -5,8 +5,7 @@ At this moment, only works server-side and with new generated chunks! Previously
 
 ## What is this mod?
 
-This is a mod that prevents Glow Lichen blocks to emit light (currecntly only server side).
-Still in early development.
+This is a mod that prevents Glow Lichen blocks to emit light (currently only server side and on new generated chunks).
 
 ## To be done:
 
